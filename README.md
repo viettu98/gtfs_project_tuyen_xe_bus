@@ -25,14 +25,16 @@ Lưu ý: repo chỉ chứa dữ liệu thô (CSV) và hai hình minh họa; khô
 ---
 
 ## Hình ảnh minh họa
-Ảnh được lưu trong repo và dùng để làm ví dụ trực quan (chụp từ Power BI hoặc báo cáo tương tự). Bạn có thể xem trực tiếp:
-- Power BI — ví dụ 1  
-  ![Power BI sample 1](https://raw.githubusercontent.com/viettu98/gtfs_project_tuyen_xe_bus/main/PBIDesktop_eg4LRcCpqq.png)
-  - Ghi chú: ảnh này thể hiện dashboard/biểu đồ (minh họa) được tạo từ dữ liệu tuyến/nhà vận hành.
 
-- Power BI — ví dụ 2  
-  ![Power BI sample 2](https://raw.githubusercontent.com/viettu98/gtfs_project_tuyen_xe_bus/main/PBIDesktop_2JfVC3AwUB.png)
-  - Ghi chú: ảnh này là chụp màn hình khác của báo cáo trực quan (bảng/biểu đồ/đoạn bản đồ).
+Tạo 2 dashboard PowerBI: 1 tổng quan - 1 chi tiết:
+
+- Power BI — Ví dụ 1  
+  ![Power BI sample 1](https://raw.githubusercontent.com/viettu98/gtfs_project_tuyen_xe_bus/main/PBIDesktop_eg4LRcCpqq.png)  
+  Ảnh này thể hiện một dashboard tổng quan, nơi các biểu đồ và bản đồ được dựng từ dữ liệu tuyến và thông tin nhà vận hành.
+
+- Power BI — Ví dụ 2  
+  ![Power BI sample 2](https://raw.githubusercontent.com/viettu98/gtfs_project_tuyen_xe_bus/main/PBIDesktop_2JfVC3AwUB.png)  
+  Ảnh chụp khác cho thấy bảng số liệu và các biểu đồ tương tác, minh họa cách trình bày và khám phá dữ liệu.
 
 
 ---
