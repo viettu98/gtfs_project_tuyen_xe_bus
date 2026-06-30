@@ -1,5 +1,4 @@
-# GTFS Project — Tuyến xe buýt / dữ liệu giao thông (viettu98)
-
+# GTFS Project — Tuyến xe buýt / dữ liệu giao thông 
 Một tập dữ liệu GTFS-like và các bảng phụ trợ cho thông tin tuyến tàu/xe buýt (CSV). Mục tiêu: cung cấp tập dữ liệu thô (operators, routes, station fixes, headsigns, bus metadata) để phân tích, trực quan hoá hoặc làm nguồn cho chuyển đổi sang định dạng GTFS/khác.
 
 ---
@@ -35,14 +34,7 @@ Lưu ý: repo chỉ chứa dữ liệu thô (CSV) và hai hình minh họa; khô
   ![Power BI sample 2](https://raw.githubusercontent.com/viettu98/gtfs_project_tuyen_xe_bus/main/PBIDesktop_2JfVC3AwUB.png)
   - Ghi chú: ảnh này là chụp màn hình khác của báo cáo trực quan (bảng/biểu đồ/đoạn bản đồ).
 
-(Ảnh là tài sản minh họa; repo không bao gồm file .pbix — chỉ ảnh PNG.)
 
 ---
 
-## Cài đặt (làm việc với dữ liệu)
-Kho này là bộ dữ liệu CSV — không cần "cài" nhiều. Đề xuất môi trường làm việc nhanh bằng Python/pandas:
 
-Clone repo:
-```bash
-git clone https://github.com/viettu98/gtfs_project_tuyen_xe_bus.git
-cd gtfs_project_tuyen_xe_bus
